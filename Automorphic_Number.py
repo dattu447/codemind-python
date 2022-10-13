@@ -5,7 +5,7 @@ d=0
 while n>0:
     n=n//10
     d+=1
-    m=s%10**d
+m=s%10**d
 if m==t:
     print('Automorphic Number')
 else:
