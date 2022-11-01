@@ -8,4 +8,4 @@ for i in range(a,b+1):
             break
         r=r//10
     if r==0:
-        print(i,end = ' ')
+        print(i,end=' ')
